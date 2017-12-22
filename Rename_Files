@@ -1,0 +1,3 @@
+For renaming all the files in a single command use the below command:
+rename -n 's/\.png\.gt\.out$/.txt/' *.out
+(the above command will display the output without actually renaming, for actually renaming to take effect run the above command without '-n' switch)
